@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Zero-config CLI REST API mocker from a single JSON file",
   "bin": {
-    "dumby": "./bin/cli.js"
+    "dumby": "bin/cli.js"
   },
   "preferGlobal": true,
   "engines": {
@@ -20,5 +20,20 @@
     "frontend",
     "development"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitefine/dumpy.git"
+  },
+  "author": "nitefine",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nitefine/dumpy/issues"
+  },
+  "homepage": "https://github.com/nitefine/dumpy#readme"
 }
