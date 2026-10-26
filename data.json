@@ -1,0 +1,9 @@
+{
+  "todos": [
+    { "id": 1, "title": "Desain UI Dashboard", "completed": false },
+    { "id": 2, "title": "Setup Tailwind CSS", "completed": true }
+  ],
+  "users": [
+    { "id": 1, "name": "Budi", "role": "Frontend Dev" }
+  ]
+}
