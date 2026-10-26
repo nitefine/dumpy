@@ -1,5 +1,5 @@
 {
-  "name": "dumby",
+  "name": "@nitefine/dumby",
   "version": "1.0.0",
   "description": "Zero-config CLI REST API mocker from a single JSON file",
   "bin": {
